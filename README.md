@@ -24,18 +24,7 @@ My main strength is using AI tools to move from idea to working application fast
 I do not treat AI as a toy or a shortcut.  
 I treat it as an execution layer that needs direction, structure and verification.
 
----
 
-## Stack
-
-**Languages & frameworks**  
-Python · TypeScript · React · Vite · Hono · Astro · FastAPI-style APIs
-
-**Backend & data**  
-Supabase · Postgres · SQLite · REST APIs · async jobs · Docker
-
-**Quality & validation**  
-Pytest · Vitest · Playwright · Ruff · mypy · Bandit · pip-audit · GitHub Actions
 
 ---
 
