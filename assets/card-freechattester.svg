@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="214" viewBox="0 0 590 214" role="img" aria-label="FreeChatTester: Lightweight chat interface for testing free models through the OpenRouter API.">
+  <defs>
+    <style>.display{font-family:'Arial Black','Segoe UI Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}.sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}</style>
+    <pattern id="tone" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="5" cy="5" r="2" fill="#17121a"/></pattern>
+  </defs>
+  <rect x="10" y="10" width="580" height="204" fill="#c6427e"/>
+  <rect x="10" y="10" width="580" height="204" fill="url(#tone)" opacity="0.25"/>
+  <rect x="1.5" y="1.5" width="577" height="201" fill="#17121a" stroke="#f2efec" stroke-width="3"/>
+  <text x="36" y="62" class="display" font-size="32" letter-spacing="-1" fill="#f2efec">FreeChatTester</text>
+  <text x="548" y="58" text-anchor="end" class="mono" font-size="13" fill="#bc979e">TypeScript</text>
+  <rect x="36" y="76" width="40" height="5" fill="#c6427e"/>
+  <text y="112" class="sans" font-size="16" fill="#bc979e"><tspan x="36" dy="0">Lightweight chat interface for testing</tspan><tspan x="36" dy="24">free models through the OpenRouter API.</tspan></text>
+  <g transform="translate(36 152)"><rect width="96" height="26" fill="none" stroke="#bc979e" stroke-width="1.5"/><text x="48" y="17.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f2efec">OpenRouter</text></g><g transform="translate(142 152)"><rect width="73" height="26" fill="none" stroke="#bc979e" stroke-width="1.5"/><text x="36" y="17.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f2efec">chat UI</text></g>
+</svg>
